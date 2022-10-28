@@ -1,0 +1,15 @@
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\obj\Debug\net6.0\DZ_hwCsharp001.csproj.AssemblyReference.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\obj\Debug\net6.0\DZ_hwCsharp001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\obj\Debug\net6.0\DZ_hwCsharp001.AssemblyInfoInputs.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\obj\Debug\net6.0\DZ_hwCsharp001.AssemblyInfo.cs
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\obj\Debug\net6.0\DZ_hwCsharp001.csproj.CoreCompileInputs.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\bin\Debug\net6.0\DZ_hwCsharp001.exe
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\bin\Debug\net6.0\DZ_hwCsharp001.deps.json
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\bin\Debug\net6.0\DZ_hwCsharp001.runtimeconfig.json
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\bin\Debug\net6.0\DZ_hwCsharp001.dll
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\bin\Debug\net6.0\DZ_hwCsharp001.pdb
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\obj\Debug\net6.0\DZ_hwCsharp001.dll
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\obj\Debug\net6.0\refint\DZ_hwCsharp001.dll
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\obj\Debug\net6.0\DZ_hwCsharp001.pdb
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\obj\Debug\net6.0\DZ_hwCsharp001.genruntimeconfig.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\DZ_hwCsharp\DZ_hwCsharp001\obj\Debug\net6.0\ref\DZ_hwCsharp001.dll
