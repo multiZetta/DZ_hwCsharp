@@ -14,3 +14,4 @@ for (int j = 1; j <= N; j++)
     Console.WriteLine($"{j} * {j} * {j} = {j * j * j}");
 }
 Console.WriteLine();
+
