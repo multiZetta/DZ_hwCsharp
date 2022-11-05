@@ -31,7 +31,6 @@ void PrintArray(int[] col)
         Console.Write($"{col[position]} {" "}");
         position++;
     }
-    //Console.WriteLine(); Console.Write($”{array[i]}”);
 }
 
 int[] array = new int[num];
