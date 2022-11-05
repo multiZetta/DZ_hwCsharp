@@ -4,21 +4,18 @@
 // 2, 4 -> 16
 // без использования math.pow
 
-double Pow(int a, int b)
-{
 
-    if (a == 0 && b == 0) return double.NaN;   
-    bool flaq = b > 0;
-    if (b < 0) b = -b;
-    int res = 1;                      
-    for (int i = 0; i < b; i++)
+Console.WriteLine("Введите число: ");
+int A = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите степень: ");
+int B = Convert.ToInt32(Console.ReadLine());
+
+int res = 1;
+{
+for (int i = 0; i < B; i++)
     {
-        res *= a;                  
+        res *= A;
     }
-    if (flaq) return res;    
-    else return 1.0 / res;         
 }
-Console.WriteLine(Pow(5, -2));   
-Console.WriteLine(Pow(5, 2));   
-Console.WriteLine(Pow(0, 0));   
+Console.Write(A + " в степени " + B + " = " + res);
 
