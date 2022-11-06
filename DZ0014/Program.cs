@@ -37,7 +37,7 @@ for (int i = 0; i < num; i++)
 {
 
     if (i % 2 == 1)
-     result += array[i]++; 
+        result += array[i]++;
 }
 Console.WriteLine("Cумма элементов, стоящих на нечётных позициях составляет: " + result);
 
