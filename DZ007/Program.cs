@@ -10,7 +10,7 @@
 Console.WriteLine("Введите любое пятизначное число: ");
 string num = Console.ReadLine();
 
-int n = 5;                  
+int n = 5;
 
 if (num.Length != n)
 {
