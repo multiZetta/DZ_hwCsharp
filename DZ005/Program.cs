@@ -48,7 +48,7 @@ Console.WriteLine( num % 10); */
 
 // V 2. полная сборка задачи!
 
-Console.WriteLine("Введите любое число: ");
+/* Console.WriteLine("Введите любое число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
 if (num < 99) Console.WriteLine("В данном числе отсутствует третья цифра. Введите другое число");
@@ -59,7 +59,7 @@ else
        num = num / 10; 
     }
     Console.WriteLine("Третья цифра этого числа: " + num % 10);
-}
+} */
 
 
 

@@ -4,7 +4,7 @@
 [3 7 22 2 78] -> 76 */
 //double
 
-Console.WriteLine("Ведите число размера массива. ");
+/* Console.WriteLine("Ведите число размера массива. ");
 int num = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите предельное число, до которого необходимо создать массив.");
 int B = Convert.ToInt32(Console.ReadLine());
@@ -48,4 +48,4 @@ for (int i = 0; i < num; i++)
 
 double result = 0;
 result = max - min;
-Console.WriteLine("Разница между максимальным и минимальным элементом массива составляет: " + result);
+Console.WriteLine("Разница между максимальным и минимальным элементом массива составляет: " + result); */

@@ -32,9 +32,9 @@ for (int i = 0; i < num; i++)
 Console.WriteLine("Количество чисел больше нуля " + count + " шт."); */
 
 
-//РЕШЕНИЕ от преподавателя
+//РЕШЕНИЕ от преподавателя доделать до конца по записи семинара
 
-int Ex002(double[] array)
+/* int Ex002(double[] array)
 {
     int size = array.Length;
     int count = 0;
@@ -64,4 +64,4 @@ void FillArray(double[] collection)
     Console.WriteLine();
 }
     int count = Ex002(array);
-    Console.WriteLine("Количество чисел больше нуля " + count + " шт.");
+    Console.WriteLine("Количество чисел больше нуля " + count + " шт."); */

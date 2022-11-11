@@ -5,7 +5,7 @@
 // 1 -> нет
 
 
-
+/* 
 Console.WriteLine("Введите цифру, обозначающую день недели: ");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number >= 6)
@@ -15,5 +15,5 @@ if (number >= 6)
 else
 {
     Console.WriteLine("Нет, это не выходной");
-}
+} */
 

@@ -3,7 +3,7 @@
 [3, 7, 23, 12] -> 19
 [-4, -6, 89, 6] -> 0 */
 
-Console.WriteLine("Ведите число размера массива. ");
+/* Console.WriteLine("Ведите число размера массива. ");
 int num = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите предельное число, до которого необходимо создать массив.");
 int B = Convert.ToInt32(Console.ReadLine());
@@ -40,5 +40,5 @@ for (int i = 0; i < num; i++)
         result += array[i];
 }
 Console.WriteLine("Cумма элементов, стоящих на нечётных позициях составляет: " + result);
-
+ */
 

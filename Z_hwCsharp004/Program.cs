@@ -3,7 +3,7 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
-int result = 1;                     
+/* int result = 1;                     
 int N = 5;
 
 while (result <= N)                  
@@ -13,5 +13,5 @@ while (result <= N)
         Console.WriteLine(result);
     }
     result += 1;
-}
+} */
         

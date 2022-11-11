@@ -7,7 +7,7 @@
 
 
 
-Console.WriteLine("Введите любое пятизначное число: ");
+/* Console.WriteLine("Введите любое пятизначное число: ");
 string num = Console.ReadLine();
 
 int n = 5;
@@ -26,7 +26,7 @@ else
     {
         Console.WriteLine("Число не является палиндромом");
     }
-}
+} */
 
 
 

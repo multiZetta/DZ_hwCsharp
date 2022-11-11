@@ -5,7 +5,7 @@
 // 918 -> 1
 
 
-Console.WriteLine("Введите любое трехзначное число: ");
+/* Console.WriteLine("Введите любое трехзначное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 if (99 < num && num < 999)
 {
@@ -16,5 +16,5 @@ else
 {
     Console.WriteLine("Число не соответсвует условиям задачи. Введите трехзначное число");
 }
-
+ */
 

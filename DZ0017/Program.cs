@@ -8,7 +8,7 @@
 b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5) */
 
 
-Console.Write("Для нахождения точки пересечения двух прямых, заданных уравлениями y = a * x + b, y = d * x + c, введите следующие значения:");
+/* Console.Write("Для нахождения точки пересечения двух прямых, заданных уравлениями y = a * x + b, y = d * x + c, введите следующие значения:");
 Console.WriteLine();
 Console.Write("a = ");
 double a = Convert.ToInt32(Console.ReadLine());
@@ -20,4 +20,4 @@ Console.Write("c = ");
 double c = Convert.ToInt32(Console.ReadLine());
 double x = (-c + b) / (-a + d);
 double y = d * x + c;
-Console.WriteLine($"Две прямые пересекутся в точке с координатами ({x}; {y}).");
+Console.WriteLine($"Две прямые пересекутся в точке с координатами ({x}; {y})."); */

@@ -6,7 +6,7 @@ m = 3, n = 4.
 8 7,8 -7,1 9 */
 
 
-Console.Write("Введите количество строк. ");
+/* Console.Write("Введите количество строк. ");
 int m = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите количество столбцов. ");
@@ -27,5 +27,20 @@ void PrintArray(int[,] matr)
         Console.WriteLine();
     }
 }
-PrintArray(array);
+PrintArray(array); */
 
+//===================================================================================
+
+/* * в решении 47 вы объявили массив целых чисел: int[,] array = new int[m, n];
+* далее вы не заполняете числами массив, но просто выводите их в консоль:
+
+for (int i = 0; i < matr.GetLength(0); i++)
+{
+for (int j = 0; j < matr.GetLength(1); j++)
+{
+{
+Console.Write($"{new Random().NextDouble():f2} {" "}");
+}
+}
+Console.WriteLine();
+} */

@@ -3,7 +3,7 @@
 N = 5, получаем массив [1, 2, 5, 7, 19]
 N = 3, получаем массив [6, 1, 33] */
 
-Console.WriteLine("Сколько элементов массива вам требуется? Введите число. ");
+/* Console.WriteLine("Сколько элементов массива вам требуется? Введите число. ");
 int num = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите предельное число, до которого необходимо создать массив.");
 int B = Convert.ToInt32(Console.ReadLine());
@@ -36,6 +36,6 @@ void PrintArray(int[] col)
 int[] array = new int[num];
 
 FillArray(array);
-PrintArray(array);
+PrintArray(array); */
 
 

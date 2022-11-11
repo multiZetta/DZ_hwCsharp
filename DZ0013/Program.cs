@@ -5,7 +5,7 @@
 [345, 897, 568, 234] -> 2 */
 
 
-Console.WriteLine("Ведите число размера массива. ");
+/* Console.WriteLine("Ведите число размера массива. ");
 int num = Convert.ToInt32(Console.ReadLine());
 
 int[] array = new int[num];
@@ -38,4 +38,4 @@ for (int i = 0; i < num; i++)
     if (array[i] % 2 == 0)
         count++;
 }
-Console.WriteLine("Количество четных чисел в массиве " + count + " шт.");
+Console.WriteLine("Количество четных чисел в массиве " + count + " шт."); */

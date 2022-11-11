@@ -9,7 +9,7 @@
 17 -> такого числа в массиве нет */
 
 
-Console.WriteLine("Двумерный массив будет заполнен рандомными числами до 1000 ");
+/* Console.WriteLine("Двумерный массив будет заполнен рандомными числами до 1000 ");
 
 Console.Write("Введите количество строк. ");
 int m = Convert.ToInt32(Console.ReadLine());
@@ -71,4 +71,4 @@ void SearchArray(int[,] matrix)
     if (count == 0) Console.Write("Такого числа нет в массиве.");
 }
 
-SearchArray(matrix);
+SearchArray(matrix); */

@@ -15,7 +15,7 @@
 
 //Console.WriteLine("Двумерный массив будет заполнен рандомными числами до 1000 ");
 
-Console.Write("Введите количество строк. ");
+/* Console.Write("Введите количество строк. ");
 int m = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите количество столбцов. ");
@@ -69,5 +69,5 @@ void SummArrayСolumnsArm(int[,] matrix)
         Console.Write(+sum + "; ");
     }
 }
-SummArrayСolumnsArm(matrix);
+SummArrayСolumnsArm(matrix); */
 
