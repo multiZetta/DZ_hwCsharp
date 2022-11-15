@@ -7,7 +7,7 @@
 18 20
 15 18 */
 
-int row1 = 2;
+/* int row1 = 2;
 int column1 = 2;
 int row2 = 2;
 int column2 = 2;
@@ -83,4 +83,4 @@ void Collection(int[,] matrix, int[,] matr, int[,] matrixResult)
     }
 }
 Collection(matrix, matr, matrixResult);  // Вызвали метод void Collection
-PrintArray(matrixResult);               //  Вывели в консоль  matrixResult
+PrintArray(matrixResult);               //  Вывели в консоль  matrixResult */

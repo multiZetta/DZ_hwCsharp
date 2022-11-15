@@ -5,7 +5,7 @@
 11 16 15 06
 10 09 08 07*/
 
-int row = 4;
+/* int row = 4;
 int column = 4;
 
 Console.WriteLine($"Матрица {row}*{column}");
@@ -46,4 +46,4 @@ void PrintArray(int[,] array)
         Console.WriteLine();
     }
 }
-PrintArray(matrix);
+PrintArray(matrix); */

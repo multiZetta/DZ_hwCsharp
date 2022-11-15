@@ -8,7 +8,7 @@
 27(0,0,1) 90(0,1,1)
 26(1,0,1) 55(1,1,1) */
 
-int page = 2;
+/* int page = 2;
 int row = 2;
 int column = 2;
 
@@ -46,6 +46,6 @@ void PrintArray(int[,,] array)    // Вывели в консоль Трёхме
         }
     }
 }
-PrintArray(matrix);
+PrintArray(matrix); */
 
 

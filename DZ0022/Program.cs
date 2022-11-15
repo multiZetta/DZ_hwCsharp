@@ -10,7 +10,7 @@
 выдаёт номер строки с наименьшей суммой элементов: 1 строка */
 
 
-Console.Write("Введите количество строк. ");
+/* Console.Write("Введите количество строк. ");
 int m = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите количество столбцов. ");
@@ -91,5 +91,5 @@ for (int i = 0; i < SumArray.Length; i++)
         minRow = i;
     }
 }
-Console.WriteLine($"В строке {minRow} наименьшая сумма элементов");
+Console.WriteLine($"В строке {minRow} наименьшая сумма элементов"); */
 

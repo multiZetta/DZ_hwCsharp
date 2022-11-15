@@ -9,7 +9,7 @@
 9 5 3 2
 8 4 4 2 */
 
-
+/* 
 Console.Write("Введите количество строк. ");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите количество столбцов. ");
@@ -67,4 +67,4 @@ void SelectionSort(int[,] matrix)
 }
 SelectionSort(matrix);
 
-PrintArray(matrix);         // печать массива с исполненной задачей
+PrintArray(matrix);         // печать массива с исполненной задачей */
