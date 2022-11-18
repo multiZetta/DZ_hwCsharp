@@ -423,4 +423,4 @@ m = 3, n = 2 -> A(m,n) = 29
 
 Решение
 
-[Код](FirstControlWork/Program.cs)   |   [Блок схема](FirstControlWork/FirstControlWork.drawio.png)
+[Код](ControlWork/FirstControlWork/Program.cs)   |   [Блок схема](ControlWork/FirstControlWork/FirstControlWork.drawio.png)
